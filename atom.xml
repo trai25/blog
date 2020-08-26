@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>进步志</title>
-  <icon>https://trai25.github.io/blog/icon.png</icon>
+  <icon>https://trai25.github.io/icon.png</icon>
   <subtitle>FAKE it till you MAKE it.</subtitle>
-  <link href="https://trai25.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://trai25.github.io/atom.xml" rel="self"/>
   
-  <link href="https://trai25.github.io/blog/"/>
+  <link href="https://trai25.github.io/"/>
   <updated>2020-08-26T03:27:52.192Z</updated>
-  <id>https://trai25.github.io/blog/</id>
+  <id>https://trai25.github.io/</id>
   
   <author>
     <name>trai25</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://trai25.github.io/blog/2020/08/26/hello-world/"/>
-    <id>https://trai25.github.io/blog/2020/08/26/hello-world/</id>
+    <link href="https://trai25.github.io/2020/08/26/hello-world/"/>
+    <id>https://trai25.github.io/2020/08/26/hello-world/</id>
     <published>2020-08-26T03:27:52.192Z</published>
     <updated>2020-08-26T03:27:52.192Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://trai25.github.io/blog/2020/08/26/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/"/>
-    <id>https://trai25.github.io/blog/2020/08/26/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/</id>
+    <link href="https://trai25.github.io/2020/08/26/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/"/>
+    <id>https://trai25.github.io/2020/08/26/hello-world%E7%9A%84%E5%89%AF%E6%9C%AC/</id>
     <published>2020-08-26T03:27:52.192Z</published>
     <updated>2020-08-26T04:58:43.107Z</updated>
     
@@ -54,9 +54,9 @@
     
     
     
-    <category term="test" scheme="https://trai25.github.io/blog/tags/test/"/>
+    <category term="test" scheme="https://trai25.github.io/tags/test/"/>
     
-    <category term="good" scheme="https://trai25.github.io/blog/tags/good/"/>
+    <category term="good" scheme="https://trai25.github.io/tags/good/"/>
     
   </entry>
   
